@@ -1,0 +1,16 @@
+# Data (DSG 2017 dataset and intermediate files are not redistributed)
+*.csv
+*.parquet
+*.pkl
+*.pt
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
